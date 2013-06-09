@@ -3,4 +3,4 @@
 local.py开在一台主机上
 socks5.py开在不同的主机上可以叠加网速
 特别是下载时。
-cfg.json配置不用主机的ip和端口。
+cfg.json配置不同主机的ip和端口。
